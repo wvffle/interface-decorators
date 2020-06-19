@@ -1,9 +1,10 @@
 {
   "name": "interface-decorators",
   "version": "1.0.0",
-  "description": "Interface decorators",
+  "description": "Interface decorators for JavaScript",
   "main": "index.js",
   "author": "Kasper Seweryn <github@wvffle.net>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "repository": "git@github.com:wvffle/interface-decorators.git"
 }
